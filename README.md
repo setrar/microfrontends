@@ -11,4 +11,6 @@ https://rchavesferna.medium.com/building-microfrontends-part-i-creating-small-ap
 
 https://techblog.fexcofts.com/2019/06/27/micro-frontends-liferay-portlets-approach-part-1/
 
+https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20
+
 
