@@ -13,4 +13,6 @@ https://techblog.fexcofts.com/2019/06/27/micro-frontends-liferay-portlets-approa
 
 https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20
 
+https://egghead.io/q/elm-and-mdx-and-nwjs
+
 
